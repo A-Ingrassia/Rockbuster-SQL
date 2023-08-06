@@ -1,4 +1,4 @@
-# Rockbuster Analysis
+# Rockbuster Stealth Analysis
 Analysis of a fictional movie rental company’s data using SQL, answering key business questions related to movie revenue, 
 customer behavior, and regional sales, and presenting the findings in order to aid the company's 2020 strategy.
 
