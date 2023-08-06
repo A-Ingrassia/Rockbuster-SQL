@@ -1,4 +1,4 @@
-# Rockbuster SQL Queries
+# Rockbuster Analysis
 These are some of the more complex SQL queries associated with my third CareerFoundry
 project, which revolves around a fictional movie rental company called "Rockbuster
 Stealth LLC". A general overview of the project is as follows:
