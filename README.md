@@ -1,6 +1,6 @@
 # Rockbuster Analysis
-Analyze a fictional movie rental company’s data, answer key business questions related to movie revenue, 
-customer behavior, and regional sales, and present the findings in order to aid the company's 2020 strategy
+Analysis of a fictional movie rental company’s data, answering key business questions related to movie revenue, 
+customer behavior, and regional sales, and presenting the findings in order to aid the company's 2020 strategy.
 
 ### Overview
 Rockbuster Stealth LLC is a fictional movie rental company that used to have stores around the
