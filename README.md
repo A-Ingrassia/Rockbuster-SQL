@@ -14,3 +14,7 @@ department helps other departments, from inventory to customer insights, with da
 queries. Your first task is to load all of Rockbuster’s data into a relational database
 management system. Then, you’ll use SQL to analyze the data and answer any
 ad-hoc business questions that other departments may have."
+
+Original Data: http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
+
+Final Presentation: https://github.com/A-Ingrassia/Rockbuster-SQL-Queries/blob/main/Rockbuster%20Final%20Presentation.pdf
