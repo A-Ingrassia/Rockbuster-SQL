@@ -4,6 +4,9 @@ customer behavior, and regional sales, and presenting the findings in order to a
 
 **Note**: I only included the most complex queries.
 
+### Case Study
+[Link](https://github.com/A-Ingrassia/Rockbuster-SQL/blob/main/Rockbuster%20Case%20Study.pdf)
+
 ### Overview
 Rockbuster Stealth LLC is a fictional movie rental company that used to have stores around the
 world. Facing stiff competition from streaming services such as Netflix and Amazon Prime,
