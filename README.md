@@ -4,8 +4,7 @@ customer behavior, and regional sales, and presenting the findings in order to a
 
 **Note**: I only included the most complex queries.
 
-### Case Study
-[Link](https://github.com/A-Ingrassia/Rockbuster-SQL/blob/main/Rockbuster%20Case%20Study.pdf)
+### [Case Study](https://github.com/A-Ingrassia/Rockbuster-SQL/blob/main/Rockbuster%20Case%20Study.pdf)
 
 ### Overview
 Rockbuster Stealth LLC is a fictional movie rental company that used to have stores around the
@@ -36,11 +35,8 @@ to analyze the data and answer any ad-hoc business questions that other departme
 - Visualization
 - Presentation of Findings
 
-### Original Data
-http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
+### [Original Data](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 
-### Tableau 
-https://public.tableau.com/app/profile/andrew5395/viz/Task3_10-Top10Countries/Top10Countries
+### [Tableau](https://public.tableau.com/app/profile/andrew5395/viz/Task3_10-Top10Countries/Top10Countries)
 
-### Final Presentation
-https://github.com/A-Ingrassia/Rockbuster-SQL-Queries/blob/main/Rockbuster%20Final%20Presentation.pdf
+### [Final Presentation](https://github.com/A-Ingrassia/Rockbuster-SQL-Queries/blob/main/Rockbuster%20Final%20Presentation.pdf)
